@@ -1,0 +1,11 @@
+.load {
+    margin-top: 5%;
+    margin-bottom: 2%;
+    /* media queries */
+    @media (max-width: 767px) {
+      margin-top: 17%;
+    }
+    @media (max-width: 400px) {
+      margin-top: 17%;
+    }
+  }
